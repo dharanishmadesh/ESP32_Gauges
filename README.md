@@ -1,6 +1,4 @@
-Here’s a **README.md** file for your GitHub repository, formatted for easy understanding and professional presentation:
 
-```markdown
 # ESP32 Web Server with Gauges for Real-Time Sensor Readings
 
 This project demonstrates how to create a real-time web server using the **ESP32**, **BME280 sensor**, and **LittleFS**. The web server displays temperature and humidity readings on a dashboard with live updates using server-sent events (SSE).
