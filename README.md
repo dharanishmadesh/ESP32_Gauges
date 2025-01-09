@@ -115,11 +115,3 @@ Feel free to open issues or submit pull requests for improvements and suggestion
 
 ---
 
-Happy coding! 😊
-```
-
-### Key Points:
-- Replace `yourusername` with your actual GitHub username in the repository link.
-- Add the required `index.html` and other assets to the repository's `data` folder before uploading.
-
-Let me know if you’d like to add more customization or details!
